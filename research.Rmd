@@ -1,0 +1,10 @@
+---
+title: "Research Page"
+description: |
+  This page will have information on my research
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

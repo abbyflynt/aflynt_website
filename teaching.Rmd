@@ -1,0 +1,10 @@
+---
+title: "Teaching Page"
+description: |
+  This page will contain information on my teaching
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
