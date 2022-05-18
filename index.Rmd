@@ -1,9 +1,9 @@
 ---
 title: "Welcome!"
-image: "Vantage.jpg"
-color1: "#FDDDA0"
-color2: "#74A089"
-angle: 110
+image: "photo.JPG"
+color1: "#5e6d64"
+color2: "#43a972"
+angle: -175
 links:
   - label: Bucknell
     url: https://www.bucknell.edu/fac-staff/abby-flynt
@@ -18,7 +18,6 @@ output:
 site: distill::distill_website
 ---
  
-This is the website for Abby Flynt, PhD.
 
 I am a statistician and Associate Professor in the Department of Mathematics at Bucknell University in Lewisburg, Pennsylvania.  Ray Bucknell!
 
