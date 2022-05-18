@@ -47,14 +47,14 @@ d-byline {
 /*-- ARTICLE TABLE OF CONTENTS --*/
 .d-contents {
   --heading-size:    15px;
-  --contents-size:   13px;
+  --contents-size:   15px;
 }
 
 /*-- ARTICLE APPENDIX --*/
 d-appendix {
   --heading-size:    15px;
   --heading-color:   rgba(0, 0, 0, 0.65);
-  --text-size:       0.8em;
+  --text-size:       1.2em;
   --text-color:      rgba(0, 0, 0, 0.5);
 }
 
@@ -62,20 +62,17 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       25px;
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --text-size:        25px;
   --hover-color:      white;
   --bkgd-color:       #5e6d64;
 }
 
-.distill-site-footer {
-  --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        18px;
-  --hover-color:      white;
-  --bkgd-color:       #43a972;
-}
+
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+.distill-site-header .logo img{
+  max-height: 40px; /* Makes logo bigger, default was 20px */
+}
