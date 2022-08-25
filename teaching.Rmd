@@ -36,7 +36,7 @@ The learning objectives for MATH 230 are the following:
 2. Students will deepen their understanding of introductory statistics topics through simulation based learning and nonparametric methods. 
 3. Students will learn how to create graphical displays of multivariate and complex data. They will learn to effectively discuss these displays and their uses and misuses. 
 
-Reflecting on the course, one thing I am really proud of is how well students learned to "Google stuff."  It was important for me that my students understood how often <a href="https://erictleung.com/everything-i-googled-in-a-week-as-a-data-scientist"> "experts" </a> need to <a href="https://www.tiktok.com/@colethesciencedude/video/7078164736591826218"> Google things </a>.  Early in the semester before we learned much about coding, students had to <a href="Google_Challenge.pdf"> complete a Google Challenge </a> to figure out the code that completed some simple tasks.
+Reflecting on the course, one thing I am really proud of is how well students learned to "Google stuff."  It was important for me that my students understood how often <a href="https://erictleung.com/everything-i-googled-in-a-week-as-a-data-scientist"> "experts" </a> need to <a href="https://www.tiktok.com/@colethesciencedude/video/7078164736591826218"> Google things. </a>  Early in the semester before we learned much about coding, students had to <a href="Google_Challenge.pdf"> complete a Google Challenge </a> to figure out the code that completed some simple tasks.
 
 As another example, on the first day that I taught students about `ggplot2`, I showed them the very basics of the "Grammar of Graphics" and layering, and then for homework, gave them the following plot to recreate (which I recreated from a <a href="https://www.nytimes.com/2022/02/03/learning/whats-going-on-in-this-graph-feb-9-2022.html"> What's going on in this Graph post </a>):
 
@@ -55,8 +55,8 @@ ggplot(data, aes(x = old, y = young)) +
   geom_abline(intercept = 0, slope = 1, size = 1)
 ```
 
-Nearly every student was able to perfectly recreate the plot (after being given the HEX code).  This task continued on their two take home exams, where one problem was to recreate a graph that they had never seen before.  Students were able to use Google to find really interesting ways to customize their Shiny apps (see for example: <a href="https://rconnect.bucknell.edu/content/68ed495d-b45e-4329-8aec-f45d272722bb"> this </a> and <a href="https://rconnect.bucknell.edu/content/c9c7fa3a-0fbf-4c42-b4e7-19e6950f0564"> that </a>
-) and their final distill websites (see for example: <a href="https://gabbymishler58.github.io/GabbyMishler_Website/"> this </a> and <a href="https://dbn005.github.io/Viz-Through-RStudio/index.html"> that </a>).
+Nearly every student was able to perfectly recreate the plot (after being given the HEX code).  This task continued on their two take home exams, where one problem was to recreate a graph that they had never seen before.  Students were able to use Google to find really interesting ways to customize their Shiny apps (see for example: <a href="https://rconnect.bucknell.edu/content/68ed495d-b45e-4329-8aec-f45d272722bb"> this </a> and <a href="https://rconnect.bucknell.edu/content/c9c7fa3a-0fbf-4c42-b4e7-19e6950f0564"> that) </a>
+ and their final distill websites (see for example: <a href="https://gabbymishler58.github.io/GabbyMishler_Website/"> this </a> and <a href="https://dbn005.github.io/Viz-Through-RStudio/index.html"> that). </a>
 
 
 
