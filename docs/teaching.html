@@ -23,6 +23,7 @@
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
@@ -2399,7 +2400,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h1 id="courses-taught-in-the-department-of-mathematics">Courses taught in the Department of Mathematics</h1>
+<h1 id="courses-taught-in-the-department-of-mathematics">Courses taught
+in the Department of Mathematics</h1>
 <ul>
 <li>MATH 216: Statistics I</li>
 <li>MATH 227: Statistics &amp; Engineering</li>
@@ -2407,28 +2409,66 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <li>MATH 304: Statistical Inference</li>
 <li>MATH 407: Statistical Designs for Scientific Studies</li>
 </ul>
-<h1 id="courses-taught-in-the-as-core-curriculum">Courses taught in the A&amp;S Core Curriculum</h1>
+<h1 id="courses-taught-in-the-as-core-curriculum">Courses taught in the
+A&amp;S Core Curriculum</h1>
 <ul>
 <li>RESC 098: Sports, Statistics, and Society</li>
 <li>RESC 098: How it Started, How it’s Going</li>
 <li>UNIV 200: Introduction to Data Science</li>
 </ul>
 <h2 id="more-about-math-230">More about MATH 230</h2>
-<p>I developed <strong>Data Visualization &amp; Computing</strong> for the Spring 2022 semester with the following course description and objectives.</p>
-<p>Statistical computing is an essential component of statistics and data literacy. In this course, both simulation and data visualization will be taught through the lens of statistical computing using the advanced statistical software language <code>R</code>.</p>
+<p>I developed <strong>Data Visualization &amp; Computing</strong> for
+the Spring 2022 semester with the following course description and
+objectives.</p>
+<p>Statistical computing is an essential component of statistics and
+data literacy. In this course, both simulation and data visualization
+will be taught through the lens of statistical computing using the
+advanced statistical software language <code>R</code>.</p>
 <p>The learning objectives for MATH 230 are the following:</p>
 <ol type="1">
-<li>Students will become efficient and proficient coders in the statistical language <code>R</code> (including the use of RStudio and RMarkdown).</li>
-<li>Students will deepen their understanding of introductory statistics topics through simulation based learning and nonparametric methods.</li>
-<li>Students will learn how to create graphical displays of multivariate and complex data. They will learn to effectively discuss these displays and their uses and misuses.</li>
+<li>Students will become efficient and proficient coders in the
+statistical language <code>R</code> (including the use of RStudio and
+RMarkdown).</li>
+<li>Students will deepen their understanding of introductory statistics
+topics through simulation based learning and nonparametric methods.</li>
+<li>Students will learn how to create graphical displays of multivariate
+and complex data. They will learn to effectively discuss these displays
+and their uses and misuses.</li>
 </ol>
-<p>Reflecting on the course, one thing I am really proud of is how well students learned to “Google stuff.” It was important for me that my students understood how often <a href="https://erictleung.com/everything-i-googled-in-a-week-as-a-data-scientist"> “experts” </a> need to <a href="https://www.tiktok.com/@colethesciencedude/video/7078164736591826218"> Google things </a>. Early in the semester before we learned much about coding, students had to <a href="Google_Challenge.pdf"> complete a Google Challenge </a> to figure out the code that completed some simple tasks.</p>
-<p>As another example, on the first day that I taught students about <code>ggplot2</code>, I showed them the very basics of the “Grammar of Graphics” and layering, and then for homework, gave them the following plot to recreate (which I recreated from a <a href="https://www.nytimes.com/2022/02/03/learning/whats-going-on-in-this-graph-feb-9-2022.html"> What’s going on in this Graph post </a>):</p>
+<p>Reflecting on the course, one thing I am really proud of is how well
+students learned to “Google stuff.” It was important for me that my
+students understood how often
+<a href="https://erictleung.com/everything-i-googled-in-a-week-as-a-data-scientist">
+“experts”</a> need to
+<a href="https://www.tiktok.com/@colethesciencedude/video/7078164736591826218">
+Google things</a>. Early in the semester before we learned much about
+coding, students had to <a href="Google_Challenge.pdf"> complete a
+Google Challenge</a> to figure out the code that completed some simple
+tasks.</p>
+<p>As another example, on the first day that I taught students about
+<code>ggplot2</code>, I showed them the very basics of the “Grammar of
+Graphics” and layering, and then for homework, gave them the following
+plot to recreate (which I recreated from a
+<a href="https://www.nytimes.com/2022/02/03/learning/whats-going-on-in-this-graph-feb-9-2022.html">
+What’s going on in this Graph post </a>):</p>
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="teaching_files/figure-html5/unnamed-chunk-1-1.png" width="624" /></p>
 </div>
-<p>Nearly every student was able to perfectly recreate the plot (after being given the HEX code). This task continued on their two take home exams, where one problem was to recreate a graph that they had never seen before. Students were able to use Google do find really interesting ways to customize their Shiny apps (see for example: <a href="https://rconnect.bucknell.edu/content/68ed495d-b45e-4329-8aec-f45d272722bb"> this </a> and <a href="https://rconnect.bucknell.edu/content/c9c7fa3a-0fbf-4c42-b4e7-19e6950f0564"> that </a> ) and their final distill websites (see for example: <a href="https://gabbymishler58.github.io/GabbyMishler_Website/"> this </a> and <a href="https://dbn005.github.io/Viz-Through-RStudio/index.html"> that </a>).</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<p>Nearly every student was able to perfectly recreate the plot (after
+being given the HEX code). This task continued on their two take home
+exams, where one problem was to recreate a graph that they had never
+seen before. Students were able to use Google to find really interesting
+ways to customize their Shiny apps (see for example:
+<a href="https://rconnect.bucknell.edu/content/68ed495d-b45e-4329-8aec-f45d272722bb">
+this</a> and
+<a href="https://rconnect.bucknell.edu/content/c9c7fa3a-0fbf-4c42-b4e7-19e6950f0564">
+that</a>) and their final distill websites (see for example:
+<a href="https://gabbymishler58.github.io/GabbyMishler_Website/">
+this</a> and
+<a href="https://dbn005.github.io/Viz-Through-RStudio/index.html">
+that</a>).</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
