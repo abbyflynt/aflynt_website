@@ -55,7 +55,7 @@ ggplot(data, aes(x = old, y = young)) +
   geom_abline(intercept = 0, slope = 1, size = 1)
 ```
 
-Nearly every student was able to perfectly recreate the plot (after being given the HEX code).  This task continued on their two take home exams, where one problem was to recreate a graph that they had never seen before.  Students were able to use Google to find really interesting ways to customize their Shiny apps (see for example: <a href="https://rconnect.bucknell.edu/content/68ed495d-b45e-4329-8aec-f45d272722bb"> this</a> and <a href="https://rconnect.bucknell.edu/content/c9c7fa3a-0fbf-4c42-b4e7-19e6950f0564"> that</a>)
+Nearly every student was able to perfectly recreate the plot (after being given the HEX code).  This task continued on their two take home exams, where one problem was to recreate a graph that they had never seen before.  Students were able to use Google to find really interesting ways to customize their Shiny apps
  and their final distill websites (see for example: <a href="https://gabbymishler58.github.io/GabbyMishler_Website/"> this</a> and <a href="https://dbn005.github.io/Viz-Through-RStudio/index.html"> that</a>).
 
 

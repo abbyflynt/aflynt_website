@@ -19,7 +19,7 @@ site: distill::distill_website
 ---
  
 
-I am a statistician and Associate Professor in the Department of Mathematics at Bucknell University in Lewisburg, Pennsylvania.  Ray Bucknell!
+I am a statistician and Associate Professor in the Department of Mathematics at Bucknell University in Lewisburg, Pennsylvania. I am also the current Chair of the Mathematics Department. Ray Bucknell!
 
 I received a Bachelor of Science degree in Mathematics Secondary Education from SUNY Fredonia and a Masters and PhD in Statistics from Carnegie Mellon University.
 
