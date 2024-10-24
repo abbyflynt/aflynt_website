@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * MATH 216: Statistics I
 * MATH 227: Statistics & Engineering
-* MATH 230: Data Visualization & Computing (details below)
+* MATH 230: Data Visualization & Computing
 * MATH 304: Statistical Inference
 * MATH 407: Statistical Designs for Scientific Studies
 
