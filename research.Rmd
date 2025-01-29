@@ -9,13 +9,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-My research interests are broadly focused in machine learning and data science, but I predominately work in statistical clustering. Clustering is considered an exploratory technique and method of unsupervised learning, with the goal of classifying groups of unlabeled observations. I work on both theoretical and applied problems in clustering, with applications in educational research, social justice and public health.
+My research interests are broadly focused in machine learning and data science, but I predominately work in statistical clustering. Clustering is considered an exploratory technique and method of unsupervised learning, with the goal of classifying groups of unlabeled observations. I work on both theoretical and applied problems in clustering, with applications in educational research and public health.
 
-I am the current Past-President of  <a href="https://www.theclassificationsociety.org/"> The Classification Society. </a> 
+<!-- I am the current Past-President of  <a href="https://www.theclassificationsociety.org/"> The Classification Society. </a>  -->
 
-# Current Work
+<!-- # Current Work -->
 
-Currently I am working as a co-PI on an <a href = "https://myweb.bucknell.edu/advance-bucknell"> NSF ADVANCE Grant </a>, looking at barriers to hiring, promotion, and retention for women and minority STEM faculty at Bucknell.
+<!-- Currently I am working as a co-PI on an <a href = "https://myweb.bucknell.edu/advance-bucknell"> NSF ADVANCE Grant </a>, looking at barriers to hiring, promotion, and retention for women and minority STEM faculty at Bucknell. -->
 
 # Article Discussions & Publications
 Murph, A.$^\star$, Flynt, A., and King B (2021). "Comparing finite sequences of discrete events with non-uniform time intervals." *Sequential Analysis, 40(3)*, 291-313.

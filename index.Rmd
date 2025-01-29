@@ -9,8 +9,6 @@ links:
     url: https://www.bucknell.edu/fac-staff/abby-flynt
   - label: Google Scholar
     url: https://scholar.google.com/citations?user=34wJigIAAAAJ&hl=en
-  - label: Twitter
-    url: "https://twitter.com/abbyflynt"
   - label: Email
     url: "mailto:abby.flynt@bucknell.edu"
 output:
